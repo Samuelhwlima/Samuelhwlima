@@ -23,6 +23,8 @@
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 </p>
 
 ## 📈 My Statistics
