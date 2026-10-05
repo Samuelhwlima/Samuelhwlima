@@ -36,5 +36,27 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelhwlima&layout=compact&langs_count=168&theme=dark" alt="Top Langs"/>
 </p>
 
+## Conecte-se comigo
+<p align="center">
+  <a href="https://www.instagram.com/samuelfxo_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+  </a>
+</p>  
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:8A2BE2,100:00BFFF&height=100&section=footer"/>
+
+</div>
+
 <br>
 <hr>
+
+
+
+
+
+
+
+
