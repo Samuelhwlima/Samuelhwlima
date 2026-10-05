@@ -38,12 +38,3 @@
 
 <br>
 <hr>
-
-## 🧠 Sobre Mim
-
-- 🤖 **Objetivo:** me tornar Engenheiro de Software especializado em Inteligência Artificial.
-- 🧠 **Curioso:** gosto de aprender e entender como as coisas funcionam.
-- 🚀 **Determinado:** estou sempre buscando evoluir e alcançar meus objetivos.
-- 💡 **Criativo:** gosto de transformar ideias em projetos e soluções.
-- 🧩 **Analítico:** gosto de pensar, testar e encontrar diferentes soluções para um problema.
-- 📚 **Aprendiz:** estou sempre buscando novos conhecimentos e tecnologias.
